@@ -15,7 +15,6 @@ def hopper
           :languages => ["C"]
         }
      }
-puts hopper
 
 end
 
