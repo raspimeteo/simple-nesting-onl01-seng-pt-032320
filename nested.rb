@@ -85,7 +85,7 @@ programmer_hash[:yukihiro_matsumoto][:known_for] = "Ruby"
 programmer_hash[:yukihiro_matsumoto][:languages] = []
 ## binding.pry
 programmer_hash[:yukihiro_matsumoto][:languages] << "LISP"
-
+binding.pry
 end
 
 def changing_alan
